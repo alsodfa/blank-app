@@ -1,9 +1,3 @@
-streamlit
-pandas
-numpy
-scikit-learn
-KMeans
-matplotlib.pyplot
 seaborn
 streamlit
 pandas
