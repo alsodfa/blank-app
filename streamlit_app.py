@@ -1,3 +1,5 @@
+pip install matplotlib seaborn pandas scikit-learn
+
 import streamlit as st
 import pandas as pd
 import numpy as np
