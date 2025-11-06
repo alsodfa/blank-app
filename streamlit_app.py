@@ -73,4 +73,3 @@ with st.expander("🧾 원본 데이터 보기"):
 
 # --- 푸터 ---
 st.markdown("---")
-st.markdown("🧠 AI와 함께하는 데이터 분석 👉 [GPTOnline](https://gptonline.ai/ko/)")
