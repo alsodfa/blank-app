@@ -5,3 +5,8 @@ scikit-learn
 KMeans
 matplotlib.pyplot
 seaborn
+streamlit
+pandas
+matplotlib
+seaborn
+scikit-learn
